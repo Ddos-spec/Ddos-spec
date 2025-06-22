@@ -6,7 +6,7 @@
   </a>
 </p>
 
-I'm a security enthusiast and scripter who loves automating things and exploring the digital world. Sometimes building bots, sometimes breaking things (ethically, of course!). Always learning, always coding.
+I'm a security enthusiast and problem solver who loves automating things and exploring the digital world. Sometimes building bots, sometimes breaking things (ethically, of course!). Always learning, always coding.
 
 ---
 
