@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Ddos-spec">
-    <img src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" alt="Coding GIF" width="300"/>
+    <img src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" alt="Coding GIF" width="500"/>
   </a>
 </p>
 
