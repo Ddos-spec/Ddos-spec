@@ -1,11 +1,10 @@
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2wxZW1rc2RjOGN0bDdiaHdyZDg5YzllaHIzcG83bThldWY2eHliOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wwg1suUiTbCY8H8vIA/giphy.gif" width="25px"> Hello, world! I'm Ddos-spec.
+### <img src="https://i.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" width="25px"> Hello, world! I'm Ddos-spec.
 
 <p align="center">
   <a href="https://github.com/Ddos-spec">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2wxZW1rc2RjOGN0bDdiaHdyZDg5YzllaHIzcG83bThldWY2eHliOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wwg1suUiTbCY8H8vIA/giphy.gif" alt="Coding GIF" width="400"/>
+    <img src="https://i.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" alt="Coding GIF" width="400"/>
   </a>
 </p>
-
 I'm a security enthusiast and scripter who loves automating things and exploring the digital world. Sometimes building bots, sometimes breaking things (ethically, of course!). Always learning, always coding.
 
 ---
