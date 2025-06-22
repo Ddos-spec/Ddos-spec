@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Ddos-spec">
-    <img src="<iframe src="https://giphy.com/embed/wwg1suUiTbCY8H8vIA" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-matrix-cat-wwg1suUiTbCY8H8vIA">via GIPHY</a></p>" alt="Coding GIF" width="400"/>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDViamxzb3NhMWo1aXhvbnJ6YXZ3YTFocDVxMDY4OXc3d3pkOXk0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" width="25px">
   </a>
 </p>
 I'm a security enthusiast and scripter who loves automating things and exploring the digital world. Sometimes building bots, sometimes breaking things (ethically, of course!). Always learning, always coding.
