@@ -2,9 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/Ddos-spec">
-   <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/wwg1suUiTbCY8H8vIA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/glitch-matrix-cat-wwg1suUiTbCY8H8vIA">via GIPHY</a></p>
+    <img src="https://i.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" alt="Coding GIF" width="400"/>
   </a>
 </p>
+
 I'm a security enthusiast and scripter who loves automating things and exploring the digital world. Sometimes building bots, sometimes breaking things (ethically, of course!). Always learning, always coding.
 
 ---
@@ -22,7 +23,7 @@ I'm a security enthusiast and scripter who loves automating things and exploring
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="docker" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
